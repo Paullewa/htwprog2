@@ -10,6 +10,9 @@ namespace Klassendiagramme
     {
         static void Main(string[] args)
         {
+            
+            
         }
+        
     }
 }
